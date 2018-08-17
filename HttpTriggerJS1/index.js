@@ -46,7 +46,7 @@ module.exports = function(context, event) {
 
         body: {
 
-            text: "57は素数"
+            text: "test from github"
 
         }
 
